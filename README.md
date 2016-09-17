@@ -1,5 +1,6 @@
 documentation vim
 documentation emacs
+documentation vogsphere 1 1080p
 piscine C J00 0 1080p
 piscine C J00 1 1080p
 piscine C J00 2 1080p
